@@ -9,7 +9,8 @@ The project is intended for small private or public broadcasts where using a lar
 ## Screenshots
 
 <div data-carousel>
-    
+    <img src="/tin_can/listener.png" alt="Listener UI">
+    <img src="/tin_can/broadcaster.png" alt="Broadcaster UI">
 </div>
 
 ## What it does
