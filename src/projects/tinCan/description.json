@@ -1,0 +1,11 @@
+{
+	"title": "Tin Can Radio",
+	"heading": "Self-hosted audio broadcasting",
+	"description": "A lightweight WebRTC radio application for broadcasting microphone input and local audio files to multiple browser-based listeners",
+	"tags": [
+		"Go",
+		"Pion WebRTC",
+		"React",
+		"PWA"
+	]
+}

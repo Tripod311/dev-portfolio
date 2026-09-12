@@ -1,0 +1,10 @@
+{
+	"title": "Liquid toolkit",
+	"heading": "Lightweight Javascript Libraries",
+	"description": "Rendering, state management, routing, events, asynchronous data flow and LLM regression testing",
+	"tags": [
+		"Typescript",
+		"Eval/Regression testing",
+		"Web development"
+	]
+}

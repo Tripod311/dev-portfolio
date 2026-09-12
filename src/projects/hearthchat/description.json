@@ -1,0 +1,11 @@
+{
+	"title": "HearthChat",
+	"heading": "Self-hosted communication for private communities.",
+	"description": "A federated chat platform for private groups with text messaging, voice and video calls.",
+	"tags": [
+		"TypeScript",
+		"Node.js",
+		"WebRTC",
+		"mediasoup"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"title": "Familiar",
+	"heading": "A modular runtime for AI applications.",
+	"description": "A composable LLM runtime with persistent context, tool calling, replaceable inference backends and module-based applications.",
+	"tags": [
+		"TypeScript",
+		"Node.js",
+		"LLM",
+		"Tool Calling"
+	]
+}
